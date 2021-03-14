@@ -1,4 +1,4 @@
-Changelog - 24/02/2021
+Changelog - 14/03/2021
 
     *  XiaomiParts: Add dynamic thermal profile implementation
     *  XiaomiParts: Drop support for browser thermal profile 

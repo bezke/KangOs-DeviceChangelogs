@@ -1,5 +1,18 @@
 Changelog - 14/03/2021
 
+    * Fixed google sound recorder
+    * Fully Fixed ANX v185 camera (third cam apps works)
+    * Dispalysettings: Added nocutout features
+    * Upstreamed kernel to v4.14.226
+    * minor changes...
+
+ Notes:
+
+    * No
+----------------------------------------------------------------------------------------------------
+
+Changelog - 14/03/2021
+
     *  XiaomiParts: Add dynamic thermal profile implementation
     *  XiaomiParts: Drop support for browser thermal profile 
     *  XiaomiParts: Set dynamic thermal interval to 5 sec

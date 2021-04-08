@@ -1,3 +1,19 @@
+Changelog - 07/04/2021
+
+    * Added Moto Dolby 04.01.0931
+    * Fully Fixed Miuicamera got more than 150 reprts that it works so if you have problem, try to flash last fw or miui.
+    * Dispalysettings: Added more nocutout features - You can use Nothbarkiller from dev options (disabled by default)
+    * Applock works in fully enforcment- denials added
+    * April security patch
+    * Updated Thermal - No more heatness ( Thx to Kobux) 
+    * Upstreamed Etherious kernel to v4.14.228
+    * minor changes...
+
+ Notes:
+
+    * No
+----------------------------------------------------------------------------------------------------
+
 Changelog - 14/03/2021
 
     * Fixed google sound recorder

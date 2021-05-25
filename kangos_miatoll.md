@@ -1,3 +1,29 @@
+Changelog - 25/05/2021
+
+    * Fixxed Moto Dolby sepolicies
+    * Fixed lag on getting network service after boot
+    * Import USB init scripts from stock 
+    * Use Google's schedutil rate-limits 
+    * Use cpusets from sunfish 
+    * Added device mask (redfin for good cts)
+    * Enable boosted color mode by default 
+    * Enable back display SVI configuration
+    * Advertise fingerprint on power button 
+    * Add 4MB overhead space to super partition 
+    * Remove bogus tombstone directory directives 
+    * Switch to prebuilt audio hal 
+    * Update media configs from curtana qssi-user 11 RKQ1.200826.002.7.RJWMIXM release-keys
+    * Enable QCRIL radio power saving 
+    * Set voice call volume steps to 6 
+    * Override few audio props via init 
+    * Upstreamed Etherious kernel to v4.14.232
+    * minor changes...
+
+ Notes:
+
+    * No
+----------------------------------------------------------------------------------------------------
+
 Changelog - 07/04/2021
 
     * Added Moto Dolby 04.01.0931
